@@ -1,0 +1,29 @@
+a {
+    color: #9a67ea;
+}
+
+a:hover {
+    color: #673ab7;
+    text-decoration: none;
+}
+
+.btn-primary {
+    border: 1px solid #333333;
+    background: #9a67ea;
+}
+
+.btn-primary:hover {
+    background: #673ab7;
+}
+
+.table>thead>tr>th {
+    border-bottom: 2px solid #ffc107;
+}
+
+.table>tbody>tr>td {
+    border-top: 1px solid #ffc107;
+}
+
+.clickable {
+    cursor: pointer;
+}
